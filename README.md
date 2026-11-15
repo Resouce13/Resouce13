@@ -58,15 +58,18 @@ Sistema de gerenciamento de academia desenvolvido utilizando **Java e MySQL**, c
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Resouce13&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Resouce13&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Resouce13&layout=compact&theme=github_dark&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resouce13&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Resouce13&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ## 📫 Contato
 
 - **GitHub:** [@Resouce13](https://github.com/Resouce13)
+- **E-Mail:** coisasdogabriel1602@gmail.com
 
 ---
 
@@ -120,19 +123,22 @@ A gym management system developed using **Java and MySQL**, focused on applying 
 - Data Structures.
 - Application Development.
 
-## 📊 GitHub Statistics
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Resouce13&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Resouce13&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Resouce13&layout=compact&theme=github_dark&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resouce13&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Resouce13&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ## 📫 Contact
 
 - **GitHub:** [@Resouce13](https://github.com/Resouce13)
+- **E-Mail:** coisasdogabriel1602@gmail.com
 
 ---
 
